@@ -1,5 +1,11 @@
 {
-  "schemaVersion": 1,
-  "edition": "pc28",
-  "status": "empty"
+  "version": "3.1.0",
+  "notes": "修复已知问题",
+  "pub_date": "2026-11-02T11:41:08.268Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://pc28-simple-updates.dev-forge.one/releases/3.1.0/windows-x86_64/yinhe-3.1.0-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeWYxelJFK1Q3anBIdXRjTVpkTjU3aU5ncHJXa1dFczhOcnYraitMY2pjQTFDR2V1ZUJmTVBlTHJCY1ZSUHA0Q1VFbmhkd3FYMXZLVmhuOVpPSFUrazBZWTRzMzkrREFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE5OTE0CWZpbGU65ZCv5piO5pif566A5piT54mIXzMuMS4wX3g2NC1zZXR1cC5leGUKRUFsWm8xVllQNFBWdXl2eHh1cGlZdEFZemlDZkhNU1NsVmRRUTFWZTBJZEQvajdqMEJZck92THBRU2hIa1kzUE5FMXZ0c2FhTDM0S1dPT1VPdWtHQnc9PQo="
+    }
+  }
 }
